@@ -63,9 +63,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanushpani&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushpani&layout=compact&hide_border=true&theme=github_dark" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanushpani&hide_border=true&theme=github-dark-blue" />
-</p>
 
 ---
 

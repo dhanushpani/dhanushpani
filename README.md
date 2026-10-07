@@ -9,14 +9,14 @@
   <a href="https://www.linkedin.com/in/dhanush-pani-sde/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dhanushpani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Bangalore,_India-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_to_work-Immediate_joiner-2ea44f?style=for-the-badge" />
+  <!-- <img src="https://img.shields.io/badge/Open_to_work-Immediate_joiner-2ea44f?style=for-the-badge" /> -->
 </p>
 
 ---
 
 ### About me
 
-- 💼 **SDE II with 5+ years** building production web and mobile apps, most recently as the **sole web developer at Go-Kiwi**, shipping fintech products end to end.
+- 💼 **SDE II with 5+ years** building production web and mobile apps, most recently as the **sole web developer** at fintech company, shipping fintech products end to end.
 - ⚡ I own features from UI to API: **React / Next.js** frontends, **Node.js / Express** services, **React Native** apps, plus analytics (Mixpanel, CleverTap), chatbot and third-party integrations.
 - 🧠 Currently going deep on **real-time systems (CRDTs, WebSockets)**, **event-driven microservices**, and **AI-powered applications**.
 - 🤝 Open to **Senior Frontend / Full Stack** roles at product companies, especially fintech.

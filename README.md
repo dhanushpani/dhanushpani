@@ -47,7 +47,6 @@
 |---|---|---|
 | 📝 **Collaborative Editor** *(in progress)* | Google Docs-style real-time editor — multi-user editing with CRDT sync, presence, and horizontally scalable WebSocket servers | React · TipTap · Yjs · y-websocket · Socket.io · Node · MongoDB · Redis |
 | 💳 **Payments Microservices** *(in progress)* | Phased payments platform in a monorepo — auth-service first, with async messaging between services | Node · Express · MongoDB · Redis · RabbitMQ · JWT |
-| 📱 [**Kribb**](https://github.com/dhanushpani/kribb) | Cross-platform mobile app with file-based routing, tab navigation, haptics and animations | React Native · Expo Router · TypeScript · Reanimated |
 | 🍳 [**Chef-In Backend**](https://github.com/dhanushpani/chef-in-backend) | REST + real-time backend with auth, live updates and documented APIs | Node · Express · MongoDB · Mongoose · Socket.io · JWT · Swagger |
 | 🛍️ [**E-commerce App**](https://github.com/dhanushpani/e_commerce_app) | UI-focused shopping app with stack + tab navigation | React Native · React Navigation · RNE UI |
 | 🧩 [**Browser Extension Manager**](https://github.com/dhanushpani/fm-browser-extension-manager) · [Live](https://fm-browser-extension-manager.vercel.app) | Filterable extension dashboard with light/dark theming | React · Tailwind CSS |
@@ -55,14 +54,7 @@
 | 👟 [**E-commerce Product Page**](https://github.com/dhanushpani/fm-ecommerce-product) · [Live](https://fm-ecommerce-product-eta.vercel.app) | Responsive product page with lightbox gallery and cart | React · Tailwind CSS |
 | 💼 [**Job Listings Filter**](https://github.com/dhanushpani/frontend-mentor-job-filter-app) · [Live](https://frontend-mentor-job-filter-app.vercel.app) | Multi-tag filtering of job listings | React |
 
----
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanushpani&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushpani&layout=compact&hide_border=true&theme=github_dark" />
-</p>
 
 ---
 
